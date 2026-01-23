@@ -41,6 +41,8 @@ de recomendaciones prácticas.
 - Evaluación de relaciones entre variables con una matriz de correlación.
 - Identificación de patrones relevantes en el comportamiento de los clientes.
 
+<img width="851" height="794" alt="image" src="https://github.com/user-attachments/assets/81d2b1b7-8465-4e37-ae3d-5275d01a5145" />
+
 ### 2️⃣ Modelo de predicción de cancelación
 - Preparación y escalado de datos.
 - Entrenamiento de modelos de clasificación para predecir la cancelación de clientes.
@@ -51,6 +53,10 @@ de recomendaciones prácticas.
 - Análisis jerárquico mediante dendrogramas.
 - Aplicación del algoritmo K-means.
 - Análisis de la distribución de clientes y tasas de cancelación por clúster.
+
+<img width="841" height="614" alt="image" src="https://github.com/user-attachments/assets/c5a6094c-97dd-4e77-88cc-b27fc65782c1" />
+
+<img width="679" height="381" alt="image" src="https://github.com/user-attachments/assets/a14dd2a5-d0ec-48ae-819d-5a91b632c596" />
 
 ## 📈 Resultados principales
 - Se identificaron variables con alta relación con la cancelación de clientes,
