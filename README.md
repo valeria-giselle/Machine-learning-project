@@ -56,6 +56,8 @@ de recomendaciones prácticas.
 
 <img width="841" height="614" alt="image" src="https://github.com/user-attachments/assets/c5a6094c-97dd-4e77-88cc-b27fc65782c1" />
 
+### - Distribución por cluster
+
 <img width="679" height="381" alt="image" src="https://github.com/user-attachments/assets/a14dd2a5-d0ec-48ae-819d-5a91b632c596" />
 
 ## 📈 Resultados principales
