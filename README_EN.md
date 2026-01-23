@@ -54,19 +54,23 @@ Customer Relationship Insights
 ## 🧠 Strategic Marketing Recommendations
 ### 1️⃣ Create Early Engagement Rituals
 Action: Design a “First 30 Days” onboarding experience (e.g., My First Class, Personal Challenge).
+
 Impact: Builds emotional attachment and a sense of belonging from the start.
 
 ### 2️⃣ Encourage Social Connections
 Action: Promote duo sign-ups, small group classes, or referral rewards.
+
 Impact: Strengthens emotional bonds and reduces anonymity.
 
 ### 3️⃣ Segment Marketing Actions by Cluster
 Action: Customize communication for high-engagement users, moderate users, and churn-prone users.
+
 Impact: Increases marketing effectiveness through personalization.
 
 ### 4️⃣ Celebrate Consistency
 Action: Recognize regular attendance and milestones with symbolic rewards (badges, internal awards).
+
 Impact: Reinforces habits and fosters community pride.
 
-## 📌 Conclusion
+## 💡 Project Value
 This project demonstrates how machine learning can be applied to understand customer behavior, predict churn, and support strategic decision-making. By combining predictive modeling with clustering analysis, the company can design more effective retention strategies and deliver personalized experiences that increase customer lifetime value.
