@@ -34,6 +34,8 @@ This analysis combines exploratory data analysis, supervised learning, and clust
 - Distribution analysis using histograms
 - Correlation matrix to identify relationships between variables
 
+<img width="851" height="794" alt="image" src="https://github.com/user-attachments/assets/81d2b1b7-8465-4e37-ae3d-5275d01a5145" />
+
 ### 3️⃣ Churn Prediction Model
 - Supervised learning model to predict customer cancellation
 - Evaluation of model performance
@@ -43,6 +45,12 @@ This analysis combines exploratory data analysis, supervised learning, and clust
 - K-Means clustering
 - Analysis of cluster characteristics
 - Churn rate comparison across clusters
+
+<img width="841" height="614" alt="image" src="https://github.com/user-attachments/assets/c5a6094c-97dd-4e77-88cc-b27fc65782c1" />
+
+### - Cluster distribution
+
+<img width="679" height="381" alt="image" src="https://github.com/user-attachments/assets/a14dd2a5-d0ec-48ae-819d-5a91b632c596" />
 
 ## 📊 Key Insights
 Customer Relationship Insights
