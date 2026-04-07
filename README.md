@@ -1,3 +1,6 @@
+🌐 **Lenguaje:**  
+[English version](README_EN.md)
+
 # 🏋️‍♀️ Análisis de Machine Learning para la cadena de gimnasios Model Fitness
 
 ## 📌 Descripción del proyecto
